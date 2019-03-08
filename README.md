@@ -23,7 +23,7 @@ Today we will talk about Lists and Tuples. We will also look at how to sort list
 
 
 
-### Suplementary reading
+### Supplementary reading
 
 
 ## Exercises
